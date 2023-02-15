@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  weatherapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-15T10:02:15.121821355Z"
+    description: A Helm chart for Kubernetes
+    digest: 3fa8b5830c32e0397bac501d24ea4e525f3d1107c5bbdaf05b22271f21af5128
+    name: weatherapp
+    type: application
+    urls:
+    - weatherapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-15T10:02:15.120536697Z"
